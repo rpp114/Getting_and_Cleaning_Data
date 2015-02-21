@@ -2,7 +2,7 @@
 
 Read me for R-programming 011
 
-Three dimensional gryo information was transformed from raw data to a tidy data set. 
+Three dimensional gyro information was transformed from raw data to a tidy data set. 
 
 The original information was found here:
 
@@ -18,8 +18,8 @@ requires the working directory to be set to the directory where the downloaded .
 The script also requires installation of the packages dplyr and tidyr.  These can be downloaded directly through R
 by the install.packages(XXXX) syntax.
 
-The output file will be placed in the ../getdata_projectfiles_UCI HAR Dataset\UCI HAR Dataset/ directory
-and will be named: 'output_data_set.txt'
+The output file will be placed in the ../getdata_projectfiles_UCI HAR Dataset/UCI HAR Dataset/ 
+directory and will be named: 'output_data_set.txt'
 
 #--- 
 
